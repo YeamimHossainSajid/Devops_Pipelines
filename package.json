@@ -1,0 +1,20 @@
+{
+  "name": "devops_pipelines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YeamimHossainSajid/Devops_Pipelines.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YeamimHossainSajid/Devops_Pipelines/issues"
+  },
+  "homepage": "https://github.com/YeamimHossainSajid/Devops_Pipelines#readme"
+}
